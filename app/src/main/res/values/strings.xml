@@ -1,0 +1,9 @@
+<resources>
+    <!--<string name="app_name">Task</string>-->
+    <string name="app_name">ToDo</string>
+    <string name="title_shop">Shop</string>
+    <string name="title_gifts">Gifts</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_profile">Profile</string>
+
+</resources>
